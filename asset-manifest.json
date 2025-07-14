@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/Organic-Power/static/js/main.e596146f.chunk.js",
+    "main.js.map": "/Organic-Power/static/js/main.e596146f.chunk.js.map",
+    "runtime-main.js": "/Organic-Power/static/js/runtime-main.0e0f541e.js",
+    "runtime-main.js.map": "/Organic-Power/static/js/runtime-main.0e0f541e.js.map",
+    "static/js/2.f7de83f5.chunk.js": "/Organic-Power/static/js/2.f7de83f5.chunk.js",
+    "static/js/2.f7de83f5.chunk.js.map": "/Organic-Power/static/js/2.f7de83f5.chunk.js.map",
+    "index.html": "/Organic-Power/index.html",
+    "precache-manifest.ccf1ecc5e0b5b4a45d8c555b7df7af7c.js": "/Organic-Power/precache-manifest.ccf1ecc5e0b5b4a45d8c555b7df7af7c.js",
+    "service-worker.js": "/Organic-Power/service-worker.js",
+    "static/js/2.f7de83f5.chunk.js.LICENSE.txt": "/Organic-Power/static/js/2.f7de83f5.chunk.js.LICENSE.txt",
+    "static/media/ChatGPT Image 11 de jun. de 2025, 11_52_17.png": "/Organic-Power/static/media/ChatGPT Image 11 de jun. de 2025, 11_52_17.9b7d8bd3.png",
+    "static/media/ChatGPT Image 17 de jun. de 2025, 16_26_22.png": "/Organic-Power/static/media/ChatGPT Image 17 de jun. de 2025, 16_26_22.3e61234f.png",
+    "static/media/ChatGPT Image 17 de jun. de 2025, 17_24_08.png": "/Organic-Power/static/media/ChatGPT Image 17 de jun. de 2025, 17_24_08.44987568.png",
+    "static/media/ChatGPT Image 18 de jun. de 2025, 17_10_21.png": "/Organic-Power/static/media/ChatGPT Image 18 de jun. de 2025, 17_10_21.743645b0.png",
+    "static/media/ChatGPT Image 18 de jun. de 2025, 17_39_47.png": "/Organic-Power/static/media/ChatGPT Image 18 de jun. de 2025, 17_39_47.2d13d99e.png",
+    "static/media/ChatGPT Image 18 de jun. de 2025, 17_53_41.png": "/Organic-Power/static/media/ChatGPT Image 18 de jun. de 2025, 17_53_41.35037b70.png",
+    "static/media/ChatGPT Image 18 de jun. de 2025, 18_00_13.png": "/Organic-Power/static/media/ChatGPT Image 18 de jun. de 2025, 18_00_13.82085714.png",
+    "static/media/ChatGPT Image 19 de jun. de 2025, 18_10_19.png": "/Organic-Power/static/media/ChatGPT Image 19 de jun. de 2025, 18_10_19.908798c4.png",
+    "static/media/ChatGPT Image 26 de jun. de 2025, 18_10_08.png": "/Organic-Power/static/media/ChatGPT Image 26 de jun. de 2025, 18_10_08.97b09a85.png",
+    "static/media/WhatsApp Image 2025-05-26 at 17.50.52.jpeg": "/Organic-Power/static/media/WhatsApp Image 2025-05-26 at 17.50.52.59649ea9.jpeg",
+    "static/media/icons8-insta-144.png": "/Organic-Power/static/media/icons8-insta-144.6ab31727.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e0f541e.js",
+    "static/js/2.f7de83f5.chunk.js",
+    "static/js/main.e596146f.chunk.js"
+  ]
+}
